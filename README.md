@@ -4,7 +4,7 @@
 I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building small projects on that. 
 #### Programming is the art of adding bugs to an empty text file without any requirement or design.
 
-- 💻 Working as **Blockchain Developer** in [Birlasoft](https://www.birlasoft.com/)
+- 💻 Working as **Sr Blockchain Developer** in [Birlasoft](https://www.birlasoft.com/)
 - 🧑🏻‍🏫 Founder of [Instill Learning](http://courses.instilllearning.dev/)
 - 👨‍💻 Best Selling Author at [Udemy.com](https://udemy.com)
 - ✍️ Writing tech blog posts at [androidabcd.info](https://androidabcd.info)
