@@ -1,5 +1,5 @@
 ### Hi there, I'm Gaurab 👋
-I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building small projects on that. 
+I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building somthing interesting on that. 
 
 - 💻 Working as **Sr Software Developer** in [Birlasoft](https://www.birlasoft.com/)
 - 🧑🏻‍🏫 Founder of [Instill Learning](http://courses.instilllearning.dev/)
