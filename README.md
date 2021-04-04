@@ -1,12 +1,9 @@
-<img src="https://github.com/progaurab/progaurab/blob/main/header.png" alt="header">
-
 ### Hi there, I'm Gaurab 👋
 I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building small projects on that. 
-#### Programming is the art of adding bugs to an empty text file without any requirement or design.
 
 - 💻 Working as **Sr Blockchain Developer** in [Birlasoft](https://www.birlasoft.com/)
 - 🧑🏻‍🏫 Founder of [Instill Learning](http://courses.instilllearning.dev/)
-- 👨‍💻 Best Selling Author at [Udemy.com](https://udemy.com)
+- 👨‍💻 Best Selling Author at [Udemy.com](https://www.udemy.com/user/gaurab-kumar-2/)
 - ✍️ Writing tech blog posts at [androidabcd.info](https://androidabcd.info)
 - 📺 Making free video courses at [YouTube](https://www.youtube.com/instilllearning?sub_confirmation=1) 
 - ☀️ Learning and Developing Machine Learning based projects in Python.
