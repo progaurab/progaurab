@@ -13,12 +13,12 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 <p align="center">
     <a href="https://www.udemy.com/user/gaurab-kumar-2/" alt="Udemy"><img src="https://github.com/progaurab/progaurab/blob/main/udemy.png"></a>
     <a href="https://twitter.com/progaurab" alt="Twitter"><img src="https://github.com/progaurab/progaurab/blob/main/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/progaurab" alt="Linkedin"><img src="https://github.com/progaurab/progaurab/blob/main/linkedin.png"></a>
-    <a href="https://www.instagram.com/instilllearning/" alt="Instagram"><img src="https://github.com/progaurab/progaurab/blob/main/insta.png"></a>
-    <a href="https://www.facebook.com/courses.instilllearning.dev" alt="Facebook"><img src="https://github.com/progaurab/progaurab/blob/main/fb.jpeg"></a>
-    <a href="https://github.com/progaurab" alt="GitHub"><img src="https://github.com/progaurab/progaurab/blob/main/github.png"></a>
-    <a href="https://dev.to/progaurab" alt="Dev"><img src="https://github.com/progaurab/progaurab/blob/main/dev.png"></a>
-    <a href="https://medium.com/@progaurab" alt="Medium"><img src="https://github.com/progaurab/progaurab/blob/main/medium.png"></a>
+    <a href="https://www.linkedin.com/in/progaurab" alt="Linkedin"><img src="https://github.com/progaurab/progaurab/blob/main/linkedin40.png"></a>
+    <a href="https://www.instagram.com/instilllearning/" alt="Instagram"><img src="https://github.com/progaurab/progaurab/blob/main/insta40.png"></a>
+    <a href="https://www.facebook.com/courses.instilllearning.dev" alt="Facebook"><img src="https://github.com/progaurab/progaurab/blob/main/fb40.jpeg"></a>
+    <a href="https://github.com/progaurab" alt="GitHub"><img src="https://github.com/progaurab/progaurab/blob/main/github40.png"></a>
+    <a href="https://dev.to/progaurab" alt="Dev"><img src="https://github.com/progaurab/progaurab/blob/main/dev40.png"></a>
+    <a href="https://medium.com/@progaurab" alt="Medium"><img src="https://github.com/progaurab/progaurab/blob/main/medium40.png"></a>
 </p>
   
 </p>
