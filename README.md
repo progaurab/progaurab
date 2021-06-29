@@ -1,13 +1,11 @@
 ### Hello World 👋
 I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building somthing interesting on that.
-- 💻 Working as **Sr Consultant** at [Capgemini](https://www.capgemini.com/in-en/)
+- 💻 Working as **Sr Consultant** at [Capgemini India](https://www.capgemini.com/in-en/)
 - 🌱 Founder of [Instill Learning](http://courses.instilllearning.dev/)
-- 👨‍💻 Best Selling Author at [Udemy.com](https://www.udemy.com/user/gaurab-kumar-2/)
+- 👨‍💻 Best Selling Author at [Udemy](https://www.udemy.com/user/gaurab-kumar-2/)
 - ✍️ Writing tech blog posts at [androidabcd.info](https://androidabcd.info)
 - 🔭 Making free video courses at [YouTube](https://www.youtube.com/instilllearning?sub_confirmation=1) 
 <br>
-<br>
-
 ## Let's connect and chat!
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/progaurab)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@progaurab)
