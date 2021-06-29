@@ -26,6 +26,9 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apache Cordova -Build Hybrid Mobile Apps with HTML, CSS & JS](https://androidabcd.com/cordova-hybrid-app-development-for-android-and-ios-9afa2d513ca?source=rss-e47591f4c39b------2)
-- [Using IBM MobileFirst 8.0 HTTP Adapter with REST Services in Ionic-v1 based apps](https://androidabcd.com/using-ibm-mobilefirst-8-0-http-adapter-with-rest-services-in-ionic-v1-based-apps-8871866d56f7?source=rss-e47591f4c39b------2)
+- [TypeScript Tutorial – A Step to Step Guide](https://androidabcd.info/typescript-tutorial-a-step-to-step-guide/?utm_source=rss&utm_medium=rss&utm_campaign=typescript-tutorial-a-step-to-step-guide)
+- [ECMAScript 6 – The main feature you can use today](https://androidabcd.info/ecmascript/?utm_source=rss&utm_medium=rss&utm_campaign=ecmascript)
+- [Kotlin Basics for Beginner](https://androidabcd.info/kotlin/?utm_source=rss&utm_medium=rss&utm_campaign=kotlin)
+- [Buy 2, Get 2 Courses Free on Udemy](https://androidabcd.info/udemy-courses-buy-2-get-2-free/?utm_source=rss&utm_medium=rss&utm_campaign=udemy-courses-buy-2-get-2-free)
+- [Apache Cordova -Build Hybrid Mobile Apps for Android & iOS](https://androidabcd.info/cordova-hybrid-app-development-for-android-and-ios/?utm_source=rss&utm_medium=rss&utm_campaign=cordova-hybrid-app-development-for-android-and-ios)
 <!-- BLOG-POST-LIST:END -->
