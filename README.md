@@ -22,6 +22,8 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <br>
+<br>
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Apache Cordova -Build Hybrid Mobile Apps with HTML, CSS & JS](https://androidabcd.com/cordova-hybrid-app-development-for-android-and-ios-9afa2d513ca?source=rss-e47591f4c39b------2)
