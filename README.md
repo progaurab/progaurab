@@ -24,7 +24,7 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 <br>
 <br>
 
-## Blog posts
+## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [TypeScript Tutorial – A Step to Step Guide](https://androidabcd.info/typescript-tutorial-a-step-to-step-guide/?utm_source=rss&utm_medium=rss&utm_campaign=typescript-tutorial-a-step-to-step-guide)
 - [ECMAScript 6 – The main feature you can use today](https://androidabcd.info/ecmascript/?utm_source=rss&utm_medium=rss&utm_campaign=ecmascript)
