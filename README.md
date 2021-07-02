@@ -6,6 +6,10 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 - ✍️ Writing tech blog posts at [androidabcd.info](https://androidabcd.info)
 - 🔭 Making free video courses at [YouTube](https://www.youtube.com/instilllearning?sub_confirmation=1) 
 
+
+## Profile visitor count
+![Visitor Count](https://profile-counter.glitch.me/progaurab/count.svg)
+
 ## Expertise
 
 [<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />](https://androidabcd.info/category/react/)
