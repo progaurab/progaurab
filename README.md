@@ -7,7 +7,7 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 - 🔭 Making free video courses at [YouTube](https://www.youtube.com/instilllearning?sub_confirmation=1) 
 
 
-## Profile visitor count
+## Profile Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/progaurab/count.svg)
 
 ## Expertise
