@@ -32,9 +32,9 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create, Build & Run your First Cordova Project](https://androidabcd.info/create-your-first-cordova-project/?utm_source=rss&utm_medium=rss&utm_campaign=create-your-first-cordova-project)
 - [TypeScript Tutorial – A Step to Step Guide](https://androidabcd.info/typescript-tutorial-a-step-to-step-guide/?utm_source=rss&utm_medium=rss&utm_campaign=typescript-tutorial-a-step-to-step-guide)
 - [ECMAScript 6 – The main feature you can use today](https://androidabcd.info/ecmascript/?utm_source=rss&utm_medium=rss&utm_campaign=ecmascript)
 - [Kotlin Basics for Beginner](https://androidabcd.info/kotlin/?utm_source=rss&utm_medium=rss&utm_campaign=kotlin)
 - [Buy 2, Get 2 Courses Free on Udemy](https://androidabcd.info/udemy-courses-buy-2-get-2-free/?utm_source=rss&utm_medium=rss&utm_campaign=udemy-courses-buy-2-get-2-free)
-- [Apache Cordova -Build Hybrid Mobile Apps for Android & iOS](https://androidabcd.info/cordova-hybrid-app-development-for-android-and-ios/?utm_source=rss&utm_medium=rss&utm_campaign=cordova-hybrid-app-development-for-android-and-ios)
 <!-- BLOG-POST-LIST:END -->
