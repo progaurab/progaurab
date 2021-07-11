@@ -32,9 +32,9 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to set JAVA_HOME & ANDROID_SDK_ROOT path in Windows 10](https://androidabcd.info/how-to-set-java_home-in-windows-10/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-set-java_home-in-windows-10)
+- [How to Open Dynamic Links Using The Cordova InAppBrowser](https://androidabcd.info/cordova-inappbrowser/?utm_source=rss&utm_medium=rss&utm_campaign=cordova-inappbrowser)
+- [How to Access Device Info using Cordova Device Plugin](https://androidabcd.info/how-to-access-device-information-in-cordova/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-access-device-information-in-cordova)
 - [How to Create, Build & Run your First Cordova Project](https://androidabcd.info/create-your-first-cordova-project/?utm_source=rss&utm_medium=rss&utm_campaign=create-your-first-cordova-project)
 - [TypeScript Tutorial – A Step to Step Guide](https://androidabcd.info/typescript-tutorial-a-step-to-step-guide/?utm_source=rss&utm_medium=rss&utm_campaign=typescript-tutorial-a-step-to-step-guide)
-- [ECMAScript 6 – The main feature you can use today](https://androidabcd.info/ecmascript/?utm_source=rss&utm_medium=rss&utm_campaign=ecmascript)
-- [Kotlin Basics for Beginner](https://androidabcd.info/kotlin/?utm_source=rss&utm_medium=rss&utm_campaign=kotlin)
-- [Buy 2, Get 2 Courses Free on Udemy](https://androidabcd.info/udemy-courses-buy-2-get-2-free/?utm_source=rss&utm_medium=rss&utm_campaign=udemy-courses-buy-2-get-2-free)
 <!-- BLOG-POST-LIST:END -->
