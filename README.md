@@ -1,4 +1,4 @@
-### Hello World 👋
+### <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">&nbsp; Hello World 👋
 I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building somthing interesting on that.
 - 💻 Working as **Sr Consultant** at [Capgemini India](https://www.capgemini.com/in-en/)
 - 🌱 Founder of [Instill Learning](http://courses.instilllearning.dev/)
@@ -8,7 +8,7 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 
 ## Let's connect and chat!
 
-[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/instilllearning?sub_confirmation=1)
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/instilllearning?sub_confirmation=1)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/progaurab)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@progaurab)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/4188585/gaurab-kumar)
