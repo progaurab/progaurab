@@ -34,11 +34,11 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ionic Capacitor – Build Mobile App using Angular, React & Vue.js](https://androidabcd.info/ionic-capacitor/?utm_source=rss&utm_medium=rss&utm_campaign=ionic-capacitor)
 - [How to add Capacitor with Angular 12 Web App to build Mobile App](https://androidabcd.info/capacitor-with-angular12-web-app/?utm_source=rss&utm_medium=rss&utm_campaign=capacitor-with-angular12-web-app)
 - [How to set JAVA_HOME & ANDROID_SDK_ROOT path in Windows 10](https://androidabcd.info/how-to-set-java_home-in-windows-10/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-set-java_home-in-windows-10)
 - [How to Open Dynamic Links Using The Cordova InAppBrowser](https://androidabcd.info/cordova-inappbrowser/?utm_source=rss&utm_medium=rss&utm_campaign=cordova-inappbrowser)
 - [How to Access Device Info using Cordova Device Plugin](https://androidabcd.info/how-to-access-device-information-in-cordova/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-access-device-information-in-cordova)
-- [How to Create, Build & Run your First Cordova Project](https://androidabcd.info/create-your-first-cordova-project/?utm_source=rss&utm_medium=rss&utm_campaign=create-your-first-cordova-project)
 <!-- BLOG-POST-LIST:END -->
 
 <br >
