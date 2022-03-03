@@ -2,7 +2,6 @@
 I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building somthing interesting on that.
 - 💻 Working as **Sr Consultant** at [Capgemini India](https://www.capgemini.com/in-en/)
 - 🌱 Founder of [Instill Learning](http://courses.instilllearning.dev/)
-- 👨‍💻 Best Selling Author at [Udemy](https://www.udemy.com/user/gaurab-kumar-2/)
 - ✍️ Writing tech blog posts at [androidabcd.info](https://androidabcd.info)
 - 🔭 Making free video courses at [YouTube](https://www.youtube.com/instilllearning?sub_confirmation=1) 
 
