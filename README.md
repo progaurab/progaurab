@@ -1,7 +1,7 @@
-### <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">&nbsp; Hello World 👋
+### <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">Hello World 👋
 I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building somthing interesting on that.
-- 💻 Working as **Sr Consultant** at [Capgemini India](https://www.capgemini.com/in-en/)
-- 🌱 Founder of [Instill Learning](http://courses.instilllearning.dev/)
+- 💻 Working as **Technical Lead** at [Mindtree](https://www.mindtree.com/)
+- 🌱 Founder of [Instill Learning](http://instilllearning.com/)
 - ✍️ Writing tech blog posts at [androidabcd.info](https://androidabcd.info)
 - 🔭 Making free video courses at [YouTube](https://www.youtube.com/instilllearning?sub_confirmation=1) 
 
@@ -28,7 +28,8 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 <br>
 <br>
 ## Profile Visitors Count
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCWGBv-McUmtZPUP59rsm91w?style=social)](https://www.youtube.com/c/instilllearning)
+
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCWGBv-McUmtZPUP59rsm91w?style=social)](https://www.youtube.com/c/instilllearning)
 <br>
 ![Visitor Count](https://profile-counter.glitch.me/progaurab/count.svg)
 
