@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">Hello World 👋
+### Hello World 👋
 I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building somthing interesting on that.
 - 💻 Working as **Technical Lead** at [Mindtree](https://www.mindtree.com/)
 - 🌱 Founder of [Instill Learning](http://instilllearning.com/)
@@ -30,7 +30,7 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 ## Profile Visitors Count
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCWGBv-McUmtZPUP59rsm91w?style=social)](https://www.youtube.com/c/instilllearning)
-<br>
+<br> <br>
 ![Visitor Count](https://profile-counter.glitch.me/progaurab/count.svg)
 
 
