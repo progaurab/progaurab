@@ -1,38 +1,13 @@
-### Hello World 👋
-I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building somthing interesting on that.
+# 👋 Hello World
+
+<div align="justify">
+    I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building somthing interesting which I can leverage to solve real-life problems.
+</div>
+
 - 💻 Working as **Technical Lead** at [Mindtree](https://www.mindtree.com/)
 - 🌱 Founder of [Instill Learning](http://instilllearning.com/)
 - ✍️ Writing tech blog posts at [androidabcd.info](https://androidabcd.info)
 - 🔭 Making free video courses at [YouTube](https://www.youtube.com/instilllearning?sub_confirmation=1) 
-
-## Let's connect and chat!
-
-[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/instilllearning?sub_confirmation=1)
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/progaurab)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@progaurab)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/4188585/gaurab-kumar)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/learnWithGaurab)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/progaurab)
-<br/>
-
-
-## Technical Expertise
-
-[<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />](https://androidabcd.info/category/react/)
-[<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />](https://androidabcd.info/category/react/)
-[<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />](https://androidabcd.info/category/nodejs/)
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-[<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />](https://androidabcd.info/category/android/)
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<br>
-<br>
-## Profile Visitors Count
-
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCWGBv-McUmtZPUP59rsm91w?style=social)](https://www.youtube.com/c/instilllearning)
-<br> <br>
-![Visitor Count](https://profile-counter.glitch.me/progaurab/count.svg)
-
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -43,8 +18,189 @@ I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenu
 - [Ionic Capacitor – Build Mobile App using Angular, React &amp; Vue.js](https://androidabcd.info/ionic-capacitor/?utm_source=rss&utm_medium=rss&utm_campaign=ionic-capacitor)
 <!-- BLOG-POST-LIST:END -->
 
-<br >
-## 💻 Github Status 💻
-  <a href="https://github.com/progaurab"><img alt="Gaurab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progaurab&langs_count=10&layout=compact#" /></a>
-  
-  [![Gaurab's GitHub stats](https://github-readme-stats.vercel.app/api?username=progaurab)](https://github.com/progaurab/github-readme-stats)
+
+# 🔧 Technologies & Tools
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+    <a href="https://instilllearning.com">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML5</strong>
+    </a>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://instilllearning.com">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+          width="48"
+          height="48"
+          alt="CSS3"
+        />
+        <br /><strong>CSS3</strong>
+      </a>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://instilllearning.com">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+          width="48"
+          height="48"
+          alt="JavaScript"
+        />
+        <br /><strong>JavaScript</strong>
+       </a>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://instilllearning.com">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+          width="48"
+          height="48"
+          alt="TypeScript"
+        />
+        <br /><strong>TypeScript</strong>
+      </a>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        width="48"
+        height="48"
+        alt="Redux"
+      />
+      <br /><strong>Redux</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Material UI</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Npm"
+      />
+      <br /><strong>Npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+      <br /><strong>Jest</strong>
+    </td>
+  </tr>
+</table>
+
+# 📈 Stats
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=progaurab&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=progaurab&&theme=react&&hide_border=true"
+/>
+
+## Profile Visitors Count
+
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCWGBv-McUmtZPUP59rsm91w?style=social)](https://www.youtube.com/c/instilllearning)
+<br> <br>
+![Visitor Count](https://profile-counter.glitch.me/progaurab/count.svg)
+
+## Let's connect and chat!
+
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/instilllearning?sub_confirmation=1)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/progaurab)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@progaurab)
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/4188585/gaurab-kumar)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/learnWithGaurab)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/progaurab)
+<br/>
