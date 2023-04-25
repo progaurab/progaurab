@@ -4,8 +4,7 @@
     I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building somthing interesting which I can leverage to solve real-life problems.
 </div>
 
-- 💻 Working as **Technical Lead** at [Mindtree](https://www.mindtree.com/)
-- 🌱 Founder of [Instill Learning](http://instilllearning.com/)
+
 - ✍️ Writing tech blog posts at [androidabcd.info](https://androidabcd.info)
 - 🔭 Making free video courses at [YouTube](https://www.youtube.com/instilllearning?sub_confirmation=1) 
 
