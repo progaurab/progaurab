@@ -179,6 +179,13 @@
   </tr>
 </table>
 
+
+### Info
+
+<p><img align="left" height="240" src="https://github-readme-stats.vercel.app/api?username=progaurab&show_icons=true&hide_rank=true&bg_color=cbb14d,25d385,68e15c,a8eb12" alt="Gaurab Kumar" /></p>
+
+<p><img align="center" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progaurab&langs_count=10&layout=compact&bg_color=cbb14d,25d385,68e15c,a8eb12" alt="Gaurab Kumar" /></p>
+
 # 📈 Stats
 
 <img
