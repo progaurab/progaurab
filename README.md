@@ -8,7 +8,7 @@
 - ✍️ Writing tech blog posts at [Instill Learning](https://www.instilllearning.com/)
 - 🔭 Making free video courses at [YouTube](https://www.youtube.com/instilllearning?sub_confirmation=1) 
 
-## Recent Blog posts
+## Recent Blog Posts
 
 
 
