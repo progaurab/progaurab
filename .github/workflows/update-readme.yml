@@ -51,10 +51,10 @@ jobs:
               soup = BeautifulSoup(response.content, 'html.parser')
               title = soup.find('title').text.strip()
               image = soup.find('meta', property='og:image')
-              image_url = image['content'] if image else None
+              image_url = image['content'] if image else 'https://avatars.githubusercontent.com/u/30452994?s=400&u=40e7472470c28789c17b1128277259df44b6ae72&v=4' 
               blog_posts.append((url, title, image_url))
 
-          print(f"Blog posts: {blog_posts}")  # Debugging print statement
+          print(f"Blog posts: {blog_posts}")
 
           with open('blog_posts.txt', 'w') as f:
               for url, title, image_url in blog_posts:
@@ -67,15 +67,14 @@ jobs:
           import re
 
           with open('blog_posts.txt', 'r') as f:
-              blog_posts = [line.split('|') for line in f.read().splitlines()]
+              blog_posts = [line.split('|') for line in f.read().splitlines()][:10]
 
           with open('README.md', 'r') as f:
               readme_content = f.read()
 
           new_blog_posts_section = "## Recent Blog Posts\n\n"
           for url, title, image_url in blog_posts:
-              if image_url:
-                  new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="200" align="left" hspace="10" vspace="10"></a>'
+              new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="200" align="left" hspace="10" vspace="10"></a>'
               new_blog_posts_section += f"[{title}]({url})\n\n"
 
           updated_readme_content = re.sub(r'## Recent Blog Posts.*', new_blog_posts_section, readme_content, flags=re.DOTALL)
