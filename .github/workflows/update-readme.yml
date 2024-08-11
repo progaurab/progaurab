@@ -58,8 +58,10 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md blog_post_urls.txt  # Add both README.md and blog_post_urls.txt
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'   
+
+          git add README.md blog_post_urls.txt
           git commit -m 'Update Recent Blog Posts section'
-          git push
+          git pull --rebase origin main  # Pull and rebase remote changes
+          git push 
 
