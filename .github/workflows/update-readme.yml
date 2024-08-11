@@ -50,8 +50,16 @@ jobs:
               response = requests.get(url)
               soup = BeautifulSoup(response.content, 'html.parser')
               title = soup.find('title').text.strip()
+
+              # Try to find OpenGraph image first
               image = soup.find('meta', property='og:image')
-              image_url = image['content'] if image else 'https://avatars.githubusercontent.com/u/30452994?s=400&u=40e7472470c28789c17b1128277259df44b6ae72&v=4' 
+              if image:
+                  image_url = image['content']
+              else:
+                  # If not found, use the first image in the post
+                  image = soup.find('img')
+                  image_url = image['src'] if image else None
+
               blog_posts.append((url, title, image_url))
 
           print(f"Blog posts: {blog_posts}")
@@ -74,7 +82,8 @@ jobs:
 
           new_blog_posts_section = "## Recent Blog Posts\n\n"
           for url, title, image_url in blog_posts:
-              new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="200" align="left" hspace="10" vspace="10"></a>'
+              if image_url:
+                  new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="200" align="left" hspace="10" vspace="10"></a>'
               new_blog_posts_section += f"[{title}]({url})\n\n"
 
           updated_readme_content = re.sub(r'## Recent Blog Posts.*', new_blog_posts_section, readme_content, flags=re.DOTALL)
