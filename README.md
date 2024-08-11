@@ -22,128 +22,128 @@
 
 <table>
   <tr>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" height="46" alt="Python" />
       <br /><strong>Python</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Machine Learning" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="46" height="46" alt="Machine Learning" />
       <br /><strong>Machine Learning</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI" />
+    <td align="center" height="98" width="98">
+      <img src="https://img.icons8.com/color/46/000000/power-bi.png" width="46" height="46" alt="Power BI" />
       <br /><strong>Power BI</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Artificial Intelligence" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" height="46" alt="Artificial Intelligence" />
       <br /><strong>Artificial Intelligence</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="48" height="48" alt="Ethereum" />
+    <td align="center" height="98" width="98">
+      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="46" height="46" alt="Ethereum" />
       <br /><strong>Ethereum</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://img.icons8.com/ios-filled/50/000000/blockchain-new-logo.png" width="48" height="48" alt="Blockchain" />
+    <td align="center" height="98" width="98">
+      <img src="https://img.icons8.com/ios-filled/50/000000/blockchain-new-logo.png" width="46" height="46" alt="Blockchain" />
       <br /><strong>Hyperledger Fabric</strong>
     </td>
     <td align="center" style="width: 12.5%; padding: 10px">
-      <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="48" height="48" alt="Solana" />
+      <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="46" height="46" alt="Solana" />
       <br /><strong>Solana</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go (Golang)" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="46" height="46" alt="Go (Golang)" />
       <br /><strong>Go (Golang)</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="46" height="46" alt="Node.js" />
       <br /><strong>Node.js</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="46" height="46" alt="TypeScript" />
       <br /><strong>TypeScript</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="46" height="46" alt="Azure" />
       <br /><strong>Azure</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="46" height="46" alt="Google Cloud" />
       <br /><strong>Google Cloud</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="48" height="48" alt="AWS" />
+    <td align="center" height="98" width="98">
+      <img src="https://img.icons8.com/color/46/000000/amazon-web-services.png" width="46" height="46" alt="AWS" />
       <br /><strong>AWS</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL" />
       <br /><strong>PostgreSQL</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="46" height="46" alt="MongoDB" />
       <br /><strong>MongoDB</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="46" height="46" alt="Firebase" />
       <br /><strong>Firebase</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" height="46" alt="Git" />
       <br /><strong>Git</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46" height="46" alt="React" />
       <br /><strong>React</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48" alt="Angular" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="46" height="46" alt="Angular" />
       <br /><strong>Angular</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="46" height="46" alt="Vue" />
       <br /><strong>Vue</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="46" height="46" alt="Android" />
       <br /><strong>Android</strong>
     </td>
     <td align="center" style="width: 12.5%; padding: 10px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1200px-IOS_logo.svg.png" width="48" height="48" alt="iOS" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1200px-IOS_logo.svg.png" width="46" height="46" alt="iOS" />
       <br /><strong>iOS</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="48" height="48" alt="Flutter" />
+    <td align="center" height="98" width="98">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="46" height="46" alt="Flutter" />
       <br /><strong>Flutter</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46" height="46" alt="React Native" />
       <br /><strong>React Native</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" height="48" alt="Ionic" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="46" height="46" alt="Ionic" />
       <br /><strong>Ionic</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="HTML" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="46" height="46" alt="HTML" />
       <br /><strong>HTML5</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS3" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="46" height="46" alt="CSS3" />
       <br /><strong>CSS3</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="46" height="46" alt="JavaScript" />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="46" height="46" alt="Material UI" />
       <br /><strong>Material UI</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+    <td align="center" height="98" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="46" height="46" alt="Bootstrap" />
       <br /><strong>Bootstrap</strong>
     </td>
   </tr>
@@ -170,7 +170,7 @@
 
 [<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/instilllearning?sub_confirmation=1)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/progaurab)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@progaurab)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%231298E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@progaurab)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/4188585/gaurab-kumar)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/learnWithGaurab)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/progaurab)
