@@ -16,7 +16,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install python3 python3-pip -y
-          pip3 install requests beautifulsoup4
+          pip3 install requests beautifulsoup4 lxml  # Install lxml
 
       - name: Fetch sitemap and extract blog post URLs
         run: |
@@ -26,7 +26,7 @@ jobs:
 
           sitemap_url = 'https://www.instilllearning.com/sitemap.xml'
           response = requests.get(sitemap_url)
-          soup = BeautifulSoup(response.content, 'xml')
+          soup = BeautifulSoup(response.content, 'xml')  # Use 'xml' parser
 
           urls = [url.text for url in soup.find_all('loc')]
           blog_post_urls = [url for url in urls if '/blog/' in url][:10]  # Get up to 10 blog posts
