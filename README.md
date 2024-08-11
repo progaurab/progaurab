@@ -20,108 +20,168 @@
 
 # 🔧 Technologies & Tools
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
-  <div style="flex: 1 1 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Google_ML_Kit_logo.svg/1024px-Google_ML_Kit_logo.svg.png" width="48" height="48" alt="Machine Learning" />
-    <br /><strong>Machine Learning</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Artificial_Intelligence_AIcon.png" width="48" height="48" alt="AI" />
-    <br /><strong>AI</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/blockchain-new-logo.png" width="48" height="48" alt="Blockchain" />
-    <br /><strong>Blockchain</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="48" height="48" alt="Solana" />
-    <br /><strong>Solana</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://www.hyperledger.org/wp-content/uploads/2018/05/hl-h-fabric-color.png" width="48" height="48" alt="Hyperledger Fabric" />
-    <br /><strong>Hyperledger Fabric</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="ECMAScript" />
-    <br /><strong>ECMAScript</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
-    <br /><strong>JavaScript</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" />
-    <br /><strong>TypeScript</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-    <br /><strong>React</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48" alt="Angular" />
-    <br /><strong>Angular</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
-    <br /><strong>Vue</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-    <br /><strong>Bootstrap</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="HTML" />
-    <br /><strong>HTML</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS" />
-    <br /><strong>CSS</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-    <br /><strong>Node.js</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-    <br /><strong>Express</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-    <br /><strong>MongoDB</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" height="48" alt="Ionic" />
-    <br /><strong>Ionic</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
-    <br /><strong>React Native</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="48" height="48" alt="Flutter" />
-    <br /><strong>Flutter</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache Cordova" />
-    <br /><strong>Apache Cordova</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="48" height="48" alt="Android" />
-    <br /><strong>Android</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1200px-IOS_logo.svg.png" width="48" height="48" alt="iOS" />
-    <br /><strong>iOS</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-    <br /><strong>Firebase</strong>
-  </div>
-  <div style="flex: 1 1 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-    <br /><strong>Git</strong>
-  </div>
-</div>
+    <table>
+        <tr>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"
+                    height="48" alt="Python" />
+                <br /><strong>Python</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"
+                    height="48" alt="Machine Learning" />
+                <br /><strong>Machine Learning</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI" />
+                <br /><strong>Power BI</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"
+                    height="48" alt="Artificial Intelligence" />
+                <br /><strong>Artificial Intelligence</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="48" height="48" alt="Ethereum" />
+                <br /><strong>Ethereum</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://img.icons8.com/ios-filled/50/000000/blockchain-new-logo.png" width="48" height="48"
+                    alt="Blockchain" />
+                <br /><strong>Hyperledger Fabric</strong>
+            </td>
+            <td align="center" style="width: 12.5%; padding: 10px">
+                <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="48" height="48" alt="Solana" />
+                <br /><strong>Solana</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48"
+                    alt="Go (Golang)" />
+                <br /><strong>Go (Golang)</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"
+                    height="48" alt="Node.js" />
+                <br /><strong>Node.js</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48"
+                    height="48" alt="TypeScript" />
+                <br /><strong>TypeScript</strong>
+            </td>
+        </tr>
+        <tr>
+        <tr>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48"
+                    height="48" alt="Azure" />
+                <br /><strong>Azure</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+                    width="48" height="48" alt="Google Cloud" />
+                <br /><strong>Google Cloud</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="48" height="48"
+                    alt="AWS" />
+                <br /><strong>AWS</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"
+                    height="48" alt="PostgreSQL" />
+                <br /><strong>PostgreSQL</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"
+                    height="48" alt="MongoDB" />
+                <br /><strong>MongoDB</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"
+                    height="48" alt="Firebase" />
+                <br /><strong>Firebase</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"
+                    alt="Git" />
+                <br /><strong>Git</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"
+                    height="48" alt="React" />
+                <br /><strong>React</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48"
+                    height="48" alt="Angular" />
+                <br /><strong>Angular</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48"
+                    height="48" alt="Vue" />
+                <br /><strong>Vue</strong>
+            </td>
+        </tr>
+    
+        </tr>
+        <tr>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48"
+                    height="48" alt="Android" />
+                <br /><strong>Android</strong>
+            </td>
+            <td align="center" style="width: 12.5%; padding: 10px">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1200px-IOS_logo.svg.png"
+                    width="48" height="48" alt="iOS" />
+                <br /><strong>iOS</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="48"
+                    height="48" alt="Flutter" />
+                <br /><strong>Flutter</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"
+                    height="48" alt="React Native" />
+                <br /><strong>React Native</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48"
+                    height="48" alt="Ionic" />
+                <br /><strong>Ionic</strong>
+            </td>
+    
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48"
+                    alt="HTML" />
+                <br /><strong>HTML5</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48"
+                    alt="CSS3" />
+                <br /><strong>CSS3</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48"
+                    height="48" alt="JavaScript" />
+                <br /><strong>JavaScript</strong>
+            </td>
+    
+    
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48"
+                    height="48" alt="Material UI" />
+                <br /><strong>Material UI</strong>
+            </td>
+            <td align="center" height="108" width="108">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48"
+                    height="48" alt="Bootstrap" />
+                <br /><strong>Bootstrap</strong>
+            </td>
+        </tr>
+    </table>
+
 
 
 
