@@ -51,14 +51,9 @@ jobs:
               soup = BeautifulSoup(response.content, 'html.parser')
               title = soup.find('title').text.strip()
 
-              # Try to find OpenGraph image first
-              image = soup.find('meta', property='og:image')
-              if image:
-                  image_url = image['content']
-              else:
-                  # If not found, use the first image in the post
-                  image = soup.find('img')
-                  image_url = image['src'] if image else None
+              # Use the first image in the post
+              image = soup.find('img')
+              image_url = image['src'] if image else None
 
               blog_posts.append((url, title, image_url))
 
