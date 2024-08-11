@@ -9,58 +9,13 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install python3 python3-pip -y
-          pip3 install requests beautifulsoup4 lxml
-
-      - name: Fetch sitemap and extract blog post URLs
-        run: |
-          python3 - <<EOF
-          import requests
-          from bs4 import BeautifulSoup
-
-          sitemap_url = 'https://www.instilllearning.com/sitemap.xml'
-          response = requests.get(sitemap_url)
-          soup = BeautifulSoup(response.content, 'xml')
-
-          urls = [url.text for url in soup.find_all('loc')]
-          blog_post_urls = [url for url in urls if '/blog/' in url][:10]
-
-          with open('blog_post_urls.txt', 'w') as f:
-              for url in blog_post_urls:
-                  f.write(url + '\n')
-          EOF
-
-      - name: Fetch blog post titles and images
-        run: |
-          python3 - <<EOF
-          import requests
-          from bs4 import BeautifulSoup
-
-          with open('blog_post_urls.txt', 'r') as f:
-              blog_post_urls = f.read().splitlines()
-
-          blog_posts = []
-          for url in blog_post_urls:
-              response = requests.get(url)
-              soup = BeautifulSoup(response.content, 'html.parser')
-              title = soup.find('title').text.strip()
-              image = soup.find('meta', property='og:image')  # Find the OpenGraph image meta tag
-              image_url = image['content'] if image else None  # Extract the image URL if found
-              blog_posts.append((url, title, image_url))
-
-          with open('blog_posts.txt', 'w') as f:
-              for url, title, image_url in blog_posts:
-                  f.write(f"{url}|{title}|{image_url}\n")
-          EOF
+    # ... (previous steps remain the same)
 
       - name: Update README.md
         run: |
+          cat <<EOF > update_readme.py
+          import re
+
           with open('blog_posts.txt', 'r') as f:
               blog_posts = [line.split('|') for line in f.read().splitlines()]
 
@@ -77,12 +32,15 @@ jobs:
 
           with open('README.md', 'w') as f:
               f.write(updated_readme_content)
+          EOF
+
+          python3 update_readme.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md blog_post_urls.txt blog_posts.txt
+          git add README.md blog_post_urls.txt blog_posts.txt update_readme.py
           git commit -m 'Update Recent Blog Posts section'
           git pull --rebase origin main
           git push
