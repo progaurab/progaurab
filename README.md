@@ -20,7 +20,7 @@
 
 # 🔧 Technologies & Tools
 
-<table>
+<table  width="90%">
   <tr>
     <td align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python" />
