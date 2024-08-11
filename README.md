@@ -20,228 +20,109 @@
 
 # 🔧 Technologies & Tools
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <a href="https://instilllearning.com">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-          width="48"
-          height="48"
-          alt="HTML"
-        />
-        <br /><strong>HTML5</strong>
-      </a>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <a href="https://instilllearning.com">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-          width="48"
-          height="48"
-          alt="CSS3"
-        />
-        <br /><strong>CSS3</strong>
-      </a>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <a href="https://instilllearning.com">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-          width="48"
-          height="48"
-          alt="JavaScript"
-        />
-        <br /><strong>JavaScript</strong>
-       </a>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <a href="https://instilllearning.com">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-          width="48"
-          height="48"
-          alt="TypeScript"
-        />
-        <br /><strong>TypeScript</strong>
-      </a>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        width="48"
-        height="48"
-        alt="Redux"
-      />
-      <br /><strong>Redux</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="Material UI"
-      />
-      <br /><strong>Material UI</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node.js</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
-      <br /><strong>Express</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Firebase</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Npm"
-      />
-      <br /><strong>Npm</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
-        width="48"
-        height="48"
-        alt="Android"
-      />
-      <br /><strong>Android</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-        width="48"
-        height="48"
-        alt="Machine Learning"
-      />
-      <br /><strong>Machine Learning</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="48"
-        height="48"
-        alt="Artificial Intelligence"
-      />
-      <br /><strong>Artificial Intelligence</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blockchain/blockchain-original.svg"
-        width="48"
-        height="48"
-        alt="Blockchain"
-      />
-      <br /><strong>Blockchain</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://hyperledger.github.io/aries-toolbox/images/logos/fabric.svg"
-        width="48"
-        height="48"
-        alt="Hyperledger Fabric"
-      />
-      <br /><strong>Hyperledger Fabric</strong>
-    </td>
-      <td align="center" style="width: 12.5%; padding: 10px;">
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="48" height="48" alt="Ethereum" />
-      <br /><strong>Ethereum</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img
-        src="https://cryptologos.cc/logos/solana-sol-logo.png"
-        width="48"
-        height="48"
-        alt="Solana"
-      />
-      <br /><strong>Solana</strong>
-    </td>
-    <td align="center" style="width: 12.5%; padding: 10px;">
-<img src="https://img.icons8.com/ios-filled/50/000000/blockchain-new-logo.png" width="48" height="48" alt="Blockchain" />
-      <br /><strong>Hyperledger Fabric</strong>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+  <div style="flex: 1 1 100px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Google_ML_Kit_logo.svg/1024px-Google_ML_Kit_logo.svg.png" width="48" height="48" alt="Machine Learning" />
+    <br /><strong>Machine Learning</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Artificial_Intelligence_AIcon.png" width="48" height="48" alt="AI" />
+    <br /><strong>AI</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/blockchain-new-logo.png" width="48" height="48" alt="Blockchain" />
+    <br /><strong>Blockchain</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="48" height="48" alt="Solana" />
+    <br /><strong>Solana</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://www.hyperledger.org/wp-content/uploads/2018/05/hl-h-fabric-color.png" width="48" height="48" alt="Hyperledger Fabric" />
+    <br /><strong>Hyperledger Fabric</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="ECMAScript" />
+    <br /><strong>ECMAScript</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
+    <br /><strong>JavaScript</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" />
+    <br /><strong>TypeScript</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+    <br /><strong>React</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48" alt="Angular" />
+    <br /><strong>Angular</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+    <br /><strong>Vue</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+    <br /><strong>Bootstrap</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="HTML" />
+    <br /><strong>HTML</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS" />
+    <br /><strong>CSS</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+    <br /><strong>Node.js</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+    <br /><strong>Express</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+    <br /><strong>MongoDB</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" height="48" alt="Ionic" />
+    <br /><strong>Ionic</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+    <br /><strong>React Native</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="48" height="48" alt="Flutter" />
+    <br /><strong>Flutter</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache Cordova" />
+    <br /><strong>Apache Cordova</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="48" height="48" alt="Android" />
+    <br /><strong>Android</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1200px-IOS_logo.svg.png" width="48" height="48" alt="iOS" />
+    <br /><strong>iOS</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+    <br /><strong>Firebase</strong>
+  </div>
+  <div style="flex: 1 1 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+    <br /><strong>Git</strong>
+  </div>
+</div>
+
 
 
 # 📈 Stats
