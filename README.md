@@ -9,13 +9,7 @@
 - 🔭 Making free video courses at [YouTube](https://www.youtube.com/instilllearning?sub_confirmation=1) 
 
 ## Recent Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [How to build Node.js MVC Application](https://androidabcd.info/how-to-build-node-js-mvc-application/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-build-node-js-mvc-application)
-- [How to Set up Unit Testing &lpar;TDD&rpar; using JEST for Node, TypeScript REST API](https://androidabcd.info/how-to-set-up-unit-testing-tdd-using-jest-for-node-typescript-rest-api/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-set-up-unit-testing-tdd-using-jest-for-node-typescript-rest-api)
-- [How to set JAVA_HOME, GRADLE_HOME &amp; ANDROID_SDK_ROOT path in macOS](https://androidabcd.info/how-to-set-java_home-gradle_home-android_sdk_root-path-in-macos/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-set-java_home-gradle_home-android_sdk_root-path-in-macos)
-- [How to set JAVA_HOME, GRADLE_HOME &amp; ANDROID_SDK_ROOT path in Windows 11](https://androidabcd.info/how-to-set-java_home-in-windows/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-set-java_home-in-windows)
-- [Ionic Capacitor – Build Mobile App using Angular, React &amp; Vue.js](https://androidabcd.info/ionic-capacitor/?utm_source=rss&utm_medium=rss&utm_campaign=ionic-capacitor)
-<!-- BLOG-POST-LIST:END -->
+
 
 
 # 🔧 Technologies & Tools
