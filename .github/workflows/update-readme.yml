@@ -1,0 +1,64 @@
+name: Update README with Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight
+  workflow_dispatch:     # Allow manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install python3 python3-pip -y
+          pip3 install requests beautifulsoup4
+
+      - name: Fetch sitemap and extract blog post URLs
+        run: |
+          python3 - <<EOF
+          import requests
+          from bs4 import BeautifulSoup
+
+          sitemap_url = 'https://www.instilllearning.com/sitemap.xml'
+          response = requests.get(sitemap_url)
+          soup = BeautifulSoup(response.content, 'xml')
+
+          urls = [url.text for url in soup.find_all('loc')]
+          blog_post_urls = [url for url in urls if '/blog/' in url][:10]  # Get up to 10 blog posts
+
+          with open('blog_post_urls.txt', 'w') as f:
+              for url in blog_post_urls:
+                  f.write(url + '\n')
+          EOF
+
+      - name: Update README.md
+        run: |
+          python3 - <<EOF
+          import re
+
+          with open('blog_post_urls.txt', 'r') as f:
+              blog_post_urls = f.read().splitlines()
+
+          with open('README.md', 'r') as f:
+              readme_content = f.read()
+
+          # Find the "Recent Blog Posts" section and replace its content
+          new_blog_posts_section = "## Recent Blog Posts\n\n" + "\n".join(f"- {url}" for url in blog_post_urls)
+          updated_readme_content = re.sub(r'## Recent Blog Posts.*', new_blog_posts_section, readme_content, flags=re.DOTALL)
+
+          with open('README.md', 'w') as f:
+              f.write(updated_readme_content)
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update Recent Blog Posts section'
+          git push
