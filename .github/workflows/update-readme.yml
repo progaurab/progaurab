@@ -16,7 +16,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install python3 python3-pip -y
-          pip3 install requests beautifulsoup4 lxml  # Install lxml
+          pip3 install requests beautifulsoup4 lxml
 
       - name: Fetch sitemap and extract blog post URLs
         run: |
@@ -26,42 +26,63 @@ jobs:
 
           sitemap_url = 'https://www.instilllearning.com/sitemap.xml'
           response = requests.get(sitemap_url)
-          soup = BeautifulSoup(response.content, 'xml')  # Use 'xml' parser
+          soup = BeautifulSoup(response.content, 'xml')
 
           urls = [url.text for url in soup.find_all('loc')]
-          blog_post_urls = [url for url in urls if '/blog/' in url][:10]  # Get up to 10 blog posts
+          blog_post_urls = [url for url in urls if '/blog/' in url][:10]
 
           with open('blog_post_urls.txt', 'w') as f:
               for url in blog_post_urls:
                   f.write(url + '\n')
           EOF
 
-      - name: Update README.md
+      - name: Fetch blog post titles and images
         run: |
           python3 - <<EOF
-          import re
+          import requests
+          from bs4 import BeautifulSoup
 
           with open('blog_post_urls.txt', 'r') as f:
               blog_post_urls = f.read().splitlines()
 
+          blog_posts = []
+          for url in blog_post_urls:
+              response = requests.get(url)
+              soup = BeautifulSoup(response.content, 'html.parser')
+              title = soup.find('title').text.strip()
+              image = soup.find('meta', property='og:image')  # Find the OpenGraph image meta tag
+              image_url = image['content'] if image else None  # Extract the image URL if found
+              blog_posts.append((url, title, image_url))
+
+          with open('blog_posts.txt', 'w') as f:
+              for url, title, image_url in blog_posts:
+                  f.write(f"{url}|{title}|{image_url}\n")
+          EOF
+
+      - name: Update README.md
+        run: |
+          with open('blog_posts.txt', 'r') as f:
+              blog_posts = [line.split('|') for line in f.read().splitlines()]
+
           with open('README.md', 'r') as f:
               readme_content = f.read()
 
-          # Find the "Recent Blog Posts" section and replace its content
-          new_blog_posts_section = "## Recent Blog Posts\n\n" + "\n".join(f"- {url}" for url in blog_post_urls)
+          new_blog_posts_section = "## Recent Blog Posts\n\n"
+          for url, title, image_url in blog_posts:
+              if image_url:
+                  new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="200" align="left" hspace="10" vspace="10"></a>'
+              new_blog_posts_section += f"[{title}]({url})\n\n"
+
           updated_readme_content = re.sub(r'## Recent Blog Posts.*', new_blog_posts_section, readme_content, flags=re.DOTALL)
 
           with open('README.md', 'w') as f:
               f.write(updated_readme_content)
-          EOF
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'   
-
-          git add README.md blog_post_urls.txt
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md blog_post_urls.txt blog_posts.txt
           git commit -m 'Update Recent Blog Posts section'
-          git pull --rebase origin main  # Pull and rebase remote changes
-          git push 
-
+          git pull --rebase origin main
+          git push
