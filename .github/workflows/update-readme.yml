@@ -84,7 +84,7 @@ jobs:
           for url, title, image_url in blog_posts:
               if image_url:
                   new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="200" align="left" hspace="10" vspace="10"></a>'
-              new_blog_posts_section += f"<p>**[{title}]({url})**</p>\n"  # Use paragraph tags for each blog post
+              new_blog_posts_section += f"<p>**[{title}]({url})**</p>\n<br><br>"  # Add two <br> tags
 
           updated_readme_content = re.sub(r'## Recent Blog Posts.*', new_blog_posts_section, readme_content, flags=re.DOTALL)
 
