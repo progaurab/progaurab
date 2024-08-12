@@ -33,127 +33,127 @@
 
 <table  width="90%">
   <tr>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python" />
       <br />Python
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="Machine Learning" />
       <br />Machine Learning
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://img.icons8.com/color/44/000000/power-bi.png" width="44" height="44" alt="Power BI" />
       <br />Power BI
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Artificial Intelligence" />
       <br />Artificial Intelligence
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="44" height="44" alt="Ethereum" />
       <br />Ethereum
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://img.icons8.com/ios-filled/50/000000/blockchain-new-logo.png" width="44" height="44" alt="Blockchain" />
       <br />Hyperledger Fabric
     </td>
-    <td style="padding:-1px"  align="center" style="width: 12.5%; padding: 10px">
+    <td style="padding:0px 0px"  align="center" style="width: 12.5%; padding: 10px">
       <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="44" height="44" alt="Solana" />
       <br />Solana
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="44" height="44" alt="Go (Golang)" />
       <br />Go (Golang)
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" />
       <br />Node.js
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="44" height="44" alt="TypeScript" />
       <br />TypeScript
     </td>
   </tr>
   <tr>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="44" height="44" alt="Azure" />
       <br />Azure
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="44" height="44" alt="Google Cloud" />
       <br />Google Cloud
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://img.icons8.com/color/44/000000/amazon-web-services.png" width="44" height="44" alt="AWS" />
       <br />AWS
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" />
       <br />PostgreSQL
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB" />
       <br />MongoDB
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="44" height="44" alt="Firebase" />
       <br />Firebase
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="Git" />
       <br />Git
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React" />
       <br />React
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="44" height="44" alt="Angular" />
       <br />Angular
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="44" height="44" alt="Vue" />
       <br />Vue
     </td>
   </tr>
   <tr>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="44" height="44" alt="Android" />
       <br />Android
     </td>
-    <td style="padding:-1px"  align="center" style="width: 12.5%; padding: 10px">
+    <td style="padding:0px 0px"  align="center" style="width: 12.5%; padding: 10px">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1200px-IOS_logo.svg.png" width="44" height="44" alt="iOS" />
       <br />iOS
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="44" height="44" alt="Flutter" />
       <br />Flutter
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React Native" />
       <br />React Native
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="44" height="44" alt="Ionic" />
       <br />Ionic
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="44" height="44" alt="HTML" />
       <br />HTML5
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="44" height="44" alt="CSS3" />
       <br />CSS3
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="44" height="44" alt="JavaScript" />
       <br />JavaScript
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="44" height="44" alt="Material UI" />
       <br />Material UI
     </td>
-    <td style="padding:-1px"  align="center" height="96" width="96">
+    <td style="padding:0px 0px"  align="center" height="96" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="44" height="44" alt="Bootstrap" />
       <br />Bootstrap
     </td>
