@@ -83,8 +83,8 @@ jobs:
           new_blog_posts_section = "## Recent Blog Posts\n\n"
           for url, title, image_url in blog_posts:
               if image_url:
-                  new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="200" align="left" hspace="10" vspace="10"></a>'
-              new_blog_posts_section += f"<p>**[{title}]({url})**</p>\n<br><br><br><br>"  # Add two <br> tags
+                  new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="100" align="left" hspace="10" vspace="10"></a>'  # Decreased width to 100 (50% of 200)
+              new_blog_posts_section += f"<p>**[{title}]({url})**</p>\n<br><br>"
 
           updated_readme_content = re.sub(r'## Recent Blog Posts.*', new_blog_posts_section, readme_content, flags=re.DOTALL)
 
