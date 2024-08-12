@@ -51,9 +51,14 @@ jobs:
               soup = BeautifulSoup(response.content, 'html.parser')
               title = soup.find('title').text.strip()
 
-              # Use the first image in the post
-              image = soup.find('img')
-              image_url = image['src'] if image else None
+              # Try to find OpenGraph image first
+              image = soup.find('meta', property='og:image')
+              if image:
+                  image_url = image['content']
+              else:
+                  # If not found, use the first image in the post
+                  image = soup.find('img')
+                  image_url = image['src'] if image else None
 
               blog_posts.append((url, title, image_url))
 
@@ -79,7 +84,8 @@ jobs:
           for url, title, image_url in blog_posts:
               if image_url:
                   new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="200" align="left" hspace="10" vspace="10"></a>'
-              new_blog_posts_section += f"[{title}]({url})\n\n"
+              # Make title bold and slightly larger
+              new_blog_posts_section += f"**[{title}]({url})** \n\n" 
 
           updated_readme_content = re.sub(r'## Recent Blog Posts.*', new_blog_posts_section, readme_content, flags=re.DOTALL)
 
