@@ -1,19 +1,18 @@
-# 👋 Hello World
+# 👋 Hello World!
 
 <div align="justify">
-    I am Full stack Blockchain Developer, Freelance Corporate Trainer and Enterprenure. I love experimenting with new technologies and building somthing interesting which I can leverage to solve real-life problems.
-</div>
-- ✍️ Writing tech blog posts at [Instill Learning](https://www.instilllearning.com/)
-- 🔭 Making free video courses at [YouTube](https://www.youtube.com/instilllearning?sub_confirmation=1) 
+I'm Gaurab Kumar, a passionate full-stack developer and instructor with 9+ years of IT experience. I specialize in a wide range of technologies, from AI & ML to Blockchain, Web & Mobile development, and Cloud & DevOps. Currently, I am a Senior Specialist - Software Engineering at LTIMindtree and an instructor at both Instill Learning and Udemy. I enjoy sharing my knowledge through online courses, blog posts, and free video tutorials.
+</div> 
 
-## Let's connect and chat!
+## Let's connect and collaborate! Reach me at
 
+[<img align="left" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/919110245113)
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:progaurab@gmail.com)
 [<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/instilllearning?sub_confirmation=1)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/progaurab)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%231296E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@progaurab)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/4188585/gaurab-kumar)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/learnWithGaurab)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/progaurab)
 <br/>
 
 ## 📈 Stats
