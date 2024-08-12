@@ -10,7 +10,7 @@ new_blog_posts_section = "## Latest blog on https://instilllearning.com\n\n"
 for url, title, image_url in blog_posts:
     if image_url:
         new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="100" align="left" hspace="10" vspace="10"></a>'
-    new_blog_posts_section += f"<p>**[{title}]({url})**</p>\n<br><br>"
+    new_blog_posts_section += f"<p>**[{title}]({url})**</p>\n<br>"
 
 updated_readme_content = re.sub(r'## Recent Blog Posts.*|## Latest blog on https://instilllearning.com.*', new_blog_posts_section, readme_content, flags=re.DOTALL)
 
