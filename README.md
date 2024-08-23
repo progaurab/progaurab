@@ -26,128 +26,128 @@ I'm Gaurab Kumar, a passionate full-stack developer and instructor with 9+ years
 
 <table  width="90%">
   <tr>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
       <br />Python
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="Machine Learning" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="Machine Learning" />
       <br />Machine Learning
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://img.icons8.com/color/44/000000/power-bi.png" width="44" height="44" alt="Power BI" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://img.icons8.com/color/36/000000/power-bi.png" width="36" height="36" alt="Power BI" />
       <br />Power BI
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Artificial Intelligence" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Artificial Intelligence" />
       <br />Artificial Intelligence
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="44" height="44" alt="Ethereum" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="36" height="36" alt="Ethereum" />
       <br />Ethereum
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://img.icons8.com/ios-filled/50/000000/blockchain-new-logo.png" width="44" height="44" alt="Blockchain" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://img.icons8.com/ios-filled/50/000000/blockchain-new-logo.png" width="36" height="36" alt="Blockchain" />
       <br />Hyperledger Fabric
     </td>
     <td style="padding:0px 0px"  align="center" style="width: 12.5%; padding: 10px">
-      <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="44" height="44" alt="Solana" />
+      <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="36" height="36" alt="Solana" />
       <br />Solana
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="44" height="44" alt="Go (Golang)" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Go (Golang)" />
       <br />Go (Golang)
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
       <br />Node.js
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="44" height="44" alt="TypeScript" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="36" height="36" alt="TypeScript" />
       <br />TypeScript
     </td>
   </tr>
   <tr>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="44" height="44" alt="Azure" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" />
       <br />Azure
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="44" height="44" alt="Google Cloud" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud" />
       <br />Google Cloud
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://img.icons8.com/color/44/000000/amazon-web-services.png" width="44" height="44" alt="AWS" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://img.icons8.com/color/36/000000/amazon-web-services.png" width="36" height="36" alt="AWS" />
       <br />AWS
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
       <br />PostgreSQL
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
       <br />MongoDB
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="44" height="44" alt="Firebase" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" />
       <br />Firebase
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="Git" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
       <br />Git
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
       <br />React
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="44" height="44" alt="Angular" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="36" height="36" alt="Angular" />
       <br />Angular
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="44" height="44" alt="Vue" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
       <br />Vue
     </td>
   </tr>
   <tr>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="44" height="44" alt="Android" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="36" height="36" alt="Android" />
       <br />Android
     </td>
     <td style="padding:0px 0px"  align="center" style="width: 12.5%; padding: 10px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1200px-IOS_logo.svg.png" width="44" height="44" alt="iOS" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1200px-IOS_logo.svg.png" width="36" height="36" alt="iOS" />
       <br />iOS
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="44" height="44" alt="Flutter" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="36" height="36" alt="Flutter" />
       <br />Flutter
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React Native" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React Native" />
       <br />React Native
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="44" height="44" alt="Ionic" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="36" height="36" alt="Ionic" />
       <br />Ionic
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="44" height="44" alt="HTML" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML" />
       <br />HTML5
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="44" height="44" alt="CSS3" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3" />
       <br />CSS3
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="44" height="44" alt="JavaScript" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="36" height="36" alt="JavaScript" />
       <br />JavaScript
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="44" height="44" alt="Material UI" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" />
       <br />Material UI
     </td>
-    <td style="padding:0px 0px"  align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="44" height="44" alt="Bootstrap" />
+    <td style="padding:0px 0px"  align="center" height="82" width="82">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="36" height="36" alt="Bootstrap" />
       <br />Bootstrap
     </td>
   </tr>
@@ -156,7 +156,7 @@ I'm Gaurab Kumar, a passionate full-stack developer and instructor with 9+ years
 ## 📚 Latest blog on https://instilllearning.com
 <a href="https://www.instilllearning.com/blog/how-to-become-full-stack-developer-with-instill-learning"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/blog/blog-post/14346/data/thumb/l-6.jpg" alt="Instill Learning Newsletter - Blockchain, Machine Learning, Mobile & Web" width="100" align="left" hspace="10" vspace="10"></a><p>**[Instill Learning Newsletter - Blockchain, Machine Learning, Mobile & Web](https://www.instilllearning.com/blog/how-to-become-full-stack-developer-with-instill-learning)**</p>
 <br><br><a href="https://www.instilllearning.com/blog/ethereum-vs-enterprise-ethereum-the-main-difference"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/blog/blog-post/15013/data/thumb/s-1.jpg" alt="Ethereum vs Enterprise Ethereum: The Main Difference" width="100" align="left" hspace="10" vspace="10"></a><p>**[Ethereum vs Enterprise Ethereum: The Main Difference](https://www.instilllearning.com/blog/ethereum-vs-enterprise-ethereum-the-main-difference)**</p>
-<br><br><a href="https://www.instilllearning.com/blog/getting-stared-with-android-app-development-install-android-studio"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/library/6440ee8ee0254_1681976974_1.png" alt="Getting Stared with Android App Development  - Install Android Studio" width="100" align="left" hspace="10" vspace="10"></a><p>**[Getting Stared with Android App Development  - Install Android Studio](https://www.instilllearning.com/blog/getting-stared-with-android-app-development-install-android-studio)**</p>
+<br><br><a href="https://www.instilllearning.com/blog/getting-stared-with-android-app-development-install-android-studio"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/library/6360ee8ee0254_1681976974_1.png" alt="Getting Stared with Android App Development  - Install Android Studio" width="100" align="left" hspace="10" vspace="10"></a><p>**[Getting Stared with Android App Development  - Install Android Studio](https://www.instilllearning.com/blog/getting-stared-with-android-app-development-install-android-studio)**</p>
 <br><br><a href="https://www.instilllearning.com/blog/test"><img src="None" alt="Page not found" width="100" align="left" hspace="10" vspace="10"></a><p>**[Page not found](https://www.instilllearning.com/blog/test)**</p>
 <br><br><a href="https://www.instilllearning.com/blog/mobile-app-development-guideline"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/library/657559aadce3a_1702189482_instill-learning-image.png" alt="Mobile App Development Guideline" width="100" align="left" hspace="10" vspace="10"></a><p>**[Mobile App Development Guideline](https://www.instilllearning.com/blog/mobile-app-development-guideline)**</p>
 <br><br>
