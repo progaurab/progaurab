@@ -13,51 +13,47 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      
+
       - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y python3 python3-pip
-          pip3 install requests
-      
-      - name: Fetch and parse sitemap
-        id: parse-sitemap
+          pip3 install requests beautifulsoup4
+
+      - name: Fetch and parse website
+        id: parse-website
         run: |
           python3 <<EOF
           import requests
-          from xml.etree import ElementTree as ET
+          from bs4 import BeautifulSoup
 
-          # Fetch the sitemap
-          response = requests.get('https://www.instilllearning.com/sitemap.xml')
-          sitemap = response.text
+          # Fetch the main page
+          response = requests.get('https://instilllearning.com/')
+          soup = BeautifulSoup(response.text, 'html.parser')
 
-          # Parse the sitemap
-          root = ET.fromstring(sitemap)
-          namespaces = {'ns': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
+          # Extract course information
+          courses = []
+          for course in soup.find_all(class_='course-class-name'):  # Adjust class name as needed
+              title = course.find('h3').get_text()
+              img = course.find('img')['src']
+              url = course.find('a')['href']
+              courses.append(f'- [{title}]({url})\n  ![Course Image]({img})')
 
-          # Extract URLs
-          urls = [elem.text for elem in root.findall('.//ns:loc', namespaces)]
-
-          blogs = [url for url in urls if '/blog/' in url]
-          courses = [url for url in urls if '/course/' in url]
-
-          # Output results
-          with open('output.txt', 'w') as f:
-              f.write('## Blog Posts\n')
-              f.write('\n'.join(f'- [{url}]({url})' for url in blogs))
-              f.write('\n\n## Courses\n')
-              f.write('\n'.join(f'- [{url}]({url})' for url in courses))
+          # Write output to file
+          with open('courses.txt', 'w') as f:
+              f.write('## Courses\n')
+              f.write('\n'.join(courses))
           EOF
 
       - name: Update README
         run: |
-          sed -i '/## Blog Posts/,/## Courses/d' README.md
-          cat output.txt >> README.md
+          sed -i '/## Courses/d' README.md
+          cat courses.txt >> README.md
 
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'actions@github.com'
           git add README.md
-          git commit -m 'Update blog and course list in README.md'
+          git commit -m 'Update course list in README.md'
           git push
