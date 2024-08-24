@@ -153,18 +153,3 @@ I'm Gaurab Kumar, a passionate full-stack developer and instructor with 9+ years
   </tr>
 </table>
 
-## 📚 Latest blog on https://instilllearning.com
-<a href="https://www.instilllearning.com/blog/how-to-become-full-stack-developer-with-instill-learning"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/blog/blog-post/14346/data/thumb/l-6.jpg" alt="Instill Learning Newsletter - Blockchain, Machine Learning, Mobile & Web" width="100" align="left" hspace="10" vspace="10"></a><p>**[Instill Learning Newsletter - Blockchain, Machine Learning, Mobile & Web](https://www.instilllearning.com/blog/how-to-become-full-stack-developer-with-instill-learning)**</p>
-<br><br><a href="https://www.instilllearning.com/blog/ethereum-vs-enterprise-ethereum-the-main-difference"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/blog/blog-post/15013/data/thumb/s-1.jpg" alt="Ethereum vs Enterprise Ethereum: The Main Difference" width="100" align="left" hspace="10" vspace="10"></a><p>**[Ethereum vs Enterprise Ethereum: The Main Difference](https://www.instilllearning.com/blog/ethereum-vs-enterprise-ethereum-the-main-difference)**</p>
-<br><br><a href="https://www.instilllearning.com/blog/getting-stared-with-android-app-development-install-android-studio"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/library/6360ee8ee0254_1681976974_1.png" alt="Getting Stared with Android App Development  - Install Android Studio" width="100" align="left" hspace="10" vspace="10"></a><p>**[Getting Stared with Android App Development  - Install Android Studio](https://www.instilllearning.com/blog/getting-stared-with-android-app-development-install-android-studio)**</p>
-<br><br><a href="https://www.instilllearning.com/blog/test"><img src="None" alt="Page not found" width="100" align="left" hspace="10" vspace="10"></a><p>**[Page not found](https://www.instilllearning.com/blog/test)**</p>
-<br><br><a href="https://www.instilllearning.com/blog/mobile-app-development-guideline"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/library/657559aadce3a_1702189482_instill-learning-image.png" alt="Mobile App Development Guideline" width="100" align="left" hspace="10" vspace="10"></a><p>**[Mobile App Development Guideline](https://www.instilllearning.com/blog/mobile-app-development-guideline)**</p>
-<br><br>
-## Blog Posts
-- [https://www.instilllearning.com/blog/how-to-become-full-stack-developer-with-instill-learning](https://www.instilllearning.com/blog/how-to-become-full-stack-developer-with-instill-learning)
-- [https://www.instilllearning.com/blog/ethereum-vs-enterprise-ethereum-the-main-difference](https://www.instilllearning.com/blog/ethereum-vs-enterprise-ethereum-the-main-difference)
-- [https://www.instilllearning.com/blog/getting-stared-with-android-app-development-install-android-studio](https://www.instilllearning.com/blog/getting-stared-with-android-app-development-install-android-studio)
-- [https://www.instilllearning.com/blog/mobile-app-development-guideline](https://www.instilllearning.com/blog/mobile-app-development-guideline)
-- [https://www.instilllearning.com/blog/apache-cordova](https://www.instilllearning.com/blog/apache-cordova)
-
-## Courses
