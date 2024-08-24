@@ -1,9 +1,11 @@
-name: Update README with Latest Blog Posts
+name: Update README
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 0 * * *'  # Run daily at midnight
-  workflow_dispatch:     # Allow manual triggering
+    - cron: '0 0 * * *'  # Runs daily at midnight
 
 jobs:
   update-readme:
@@ -11,94 +13,51 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
+      
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install python3 python3-pip -y
-          pip3 install requests beautifulsoup4 lxml
-
-      - name: Fetch sitemap and extract blog post URLs
+          sudo apt-get install -y python3 python3-pip
+          pip3 install requests
+      
+      - name: Fetch and parse sitemap
+        id: parse-sitemap
         run: |
-          python3 - <<EOF
+          python3 <<EOF
           import requests
-          from bs4 import BeautifulSoup
+          from xml.etree import ElementTree as ET
 
-          sitemap_url = 'https://www.instilllearning.com/sitemap.xml'
-          response = requests.get(sitemap_url)
-          soup = BeautifulSoup(response.content, 'xml')
+          # Fetch the sitemap
+          response = requests.get('https://www.instilllearning.com/sitemap.xml')
+          sitemap = response.text
 
-          urls = [url.text for url in soup.find_all('loc')]
-          blog_post_urls = [url for url in urls if '/blog/' in url][:10]
+          # Parse the sitemap
+          root = ET.fromstring(sitemap)
+          namespaces = {'ns': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
 
-          with open('blog_post_urls.txt', 'w') as f:
-              for url in blog_post_urls:
-                  f.write(url + '\n')
+          # Extract URLs
+          urls = [elem.text for elem in root.findall('.//ns:loc', namespaces)]
+
+          blogs = [url for url in urls if '/blog/' in url]
+          courses = [url for url in urls if '/course/' in url]
+
+          # Output results
+          with open('output.txt', 'w') as f:
+              f.write('## Blog Posts\n')
+              f.write('\n'.join(f'- [{url}]({url})' for url in blogs))
+              f.write('\n\n## Courses\n')
+              f.write('\n'.join(f'- [{url}]({url})' for url in courses))
           EOF
 
-      - name: Fetch blog post titles and images
+      - name: Update README
         run: |
-          python3 - <<EOF
-          import requests
-          from bs4 import BeautifulSoup
+          sed -i '/## Blog Posts/,/## Courses/d' README.md
+          cat output.txt >> README.md
 
-          with open('blog_post_urls.txt', 'r') as f:
-              blog_post_urls = f.read().splitlines()
-
-          blog_posts = []
-          for url in blog_post_urls:
-              response = requests.get(url)
-              soup = BeautifulSoup(response.content, 'html.parser')
-              title = soup.find('title').text.strip()
-
-              # Try to find OpenGraph image first
-              image = soup.find('meta', property='og:image')
-              if image:
-                  image_url = image['content']
-              else:
-                  # If not found, use the first image in the post
-                  image = soup.find('img')
-                  image_url = image['src'] if image else None
-
-              blog_posts.append((url, title, image_url))
-
-          print(f"Blog posts: {blog_posts}")
-
-          with open('blog_posts.txt', 'w') as f:
-              for url, title, image_url in blog_posts:
-                  f.write(f"{url}|{title}|{image_url}\n")
-          EOF
-
-      - name: Update README.md
+      - name: Commit changes
         run: |
-          cat <<EOF > update_readme.py
-          import re
-
-          with open('blog_posts.txt', 'r') as f:
-              blog_posts = [line.split('|') for line in f.read().splitlines()][:10]
-
-          with open('README.md', 'r') as f:
-              readme_content = f.read()
-
-          new_blog_posts_section = "## Latest blog on https://instilllearning.com\n\n" 
-          for url, title, image_url in blog_posts:
-              if image_url:
-                  new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="100" align="left" hspace="10" vspace="10"></a>'
-              new_blog_posts_section += f"<p>**[{title}]({url})**</p>\n"
-
-          updated_readme_content = re.sub(r'## Recent Blog Posts.*|## Latest blog on https://instilllearning.com.*', new_blog_posts_section, readme_content, flags=re.DOTALL)
-
-          with open('README.md', 'w') as f:
-              f.write(updated_readme_content)
-          EOF
-
-          python3 update_readme.py
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md blog_post_urls.txt blog_posts.txt update_readme.py
-          git commit -m 'Update Recent Blog Posts section'
-          git pull --rebase origin main
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git commit -m 'Update blog and course list in README.md'
           git push
