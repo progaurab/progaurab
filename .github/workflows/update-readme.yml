@@ -19,76 +19,13 @@ jobs:
           pip3 install requests beautifulsoup4 lxml
 
       - name: Fetch sitemap and extract blog post URLs
-        run: |
-          python3 -c "
-import requests
-from bs4 import BeautifulSoup
-
-sitemap_url = 'https://www.instilllearning.com/sitemap.xml'
-response = requests.get(sitemap_url)
-soup = BeautifulSoup(response.content, 'xml')
-
-urls = [url.text for url in soup.find_all('loc')]
-blog_post_urls = [url for url in urls if '/blog/' in url][:10]
-
-with open('blog_post_urls.txt', 'w') as f:
-    for url in blog_post_urls:
-        f.write(url + '\\n')
-          "
+        run: python3 fetch_urls.py
 
       - name: Fetch blog post titles and images
-        run: |
-          python3 -c "
-import requests
-from bs4 import BeautifulSoup
-
-with open('blog_post_urls.txt', 'r') as f:
-    blog_post_urls = f.read().splitlines()
-
-blog_posts = []
-for url in blog_post_urls:
-    response = requests.get(url)
-    soup = BeautifulSoup(response.content, 'html.parser')
-    title = soup.find('title').text.strip()
-
-    # Try to find OpenGraph image first
-    image = soup.find('meta', property='og:image')
-    if image:
-        image_url = image['content']
-    else:
-        # If not found, use the first image in the post
-        image = soup.find('img')
-        image_url = image['src'] if image else None
-
-    blog_posts.append((url, title, image_url))
-
-with open('blog_posts.txt', 'w') as f:
-    for url, title, image_url in blog_posts:
-        f.write(f'{url}|{title}|{image_url}\\n')
-          "
+        run: python3 fetch_blog_details.py
 
       - name: Update README.md
-        run: |
-          python3 -c "
-import re
-
-with open('blog_posts.txt', 'r') as f:
-    blog_posts = [line.split('|') for line in f.read().splitlines()][:10]
-
-with open('README.md', 'r') as f:
-    readme_content = f.read()
-
-new_blog_posts_section = '## Latest blog on https://instilllearning.com\\n\\n' 
-for url, title, image_url in blog_posts:
-    if image_url:
-        new_blog_posts_section += f'<a href=\"{url}\"><img src=\"{image_url}\" alt=\"{title}\" width=\"100\" align=\"left\" hspace=\"10\" vspace=\"10\"></a>'
-    new_blog_posts_section += f'<p>**[{title}]({url})**</p>\\n'
-
-updated_readme_content = re.sub(r'## Latest blog on https://instilllearning.com.*', new_blog_posts_section, readme_content, flags=re.DOTALL)
-
-with open('README.md', 'w') as f:
-    f.write(updated_readme_content)
-          "
+        run: python3 update_readme.py
 
       - name: Commit and push changes
         run: |
