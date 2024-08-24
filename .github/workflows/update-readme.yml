@@ -47,6 +47,7 @@ jobs:
 
       - name: Update README
         run: |
+          # Remove existing course section and append new course list
           sed -i '/## Courses/d' README.md
           cat courses.txt >> README.md
 
@@ -54,6 +55,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'actions@github.com'
-          git add README.md
+          git add README.md courses.txt
           git commit -m 'Update course list in README.md'
           git push
