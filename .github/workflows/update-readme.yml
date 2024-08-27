@@ -90,6 +90,9 @@ jobs:
                   new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="100" align="left" hspace="10" vspace="10"></a>'
               new_blog_posts_section += f"<p>**[{title}]({url})**</p>\n<br />"
 
+          # Add an extra new line at the end of the blog posts section
+          new_blog_posts_section += "\n"
+
           # Ensure to keep everything after the blog section
           updated_readme_content = re.sub(
               r'## 📚 Latest blog on https://instilllearning.com\n\n.*?(?=##|$)', 
