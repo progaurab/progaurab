@@ -104,11 +104,16 @@ jobs:
 
           python3 update_readme.py
 
+      - name: Clean working directory
+        run: |
+          git reset --hard || echo "No changes to reset"
+          git clean -fd || echo "No untracked files to clean"
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md blog_post_urls.txt blog_posts.txt
-          git commit -m 'Update Recent Blog Posts section'
-          git pull --rebase origin main
+          git commit -m 'Update Recent Blog Posts section' || echo "No changes to commit"
+          git pull --rebase origin main || echo "Failed to pull with rebase"
           git push
