@@ -12,7 +12,6 @@ I'm Gaurab Kumar, a passionate full-stack developer and instructor with 9+ years
 <br /><a href="https://www.instilllearning.com/blog/ethereum-vs-enterprise-ethereum-the-main-difference"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/blog/blog-post/15013/data/thumb/s-1.jpg" alt="Ethereum vs Enterprise Ethereum: The Main Difference" width="100" align="left" hspace="10" vspace="10"></a><p>**[Ethereum vs Enterprise Ethereum: The Main Difference](https://www.instilllearning.com/blog/ethereum-vs-enterprise-ethereum-the-main-difference)**</p>
 <br /><a href="https://www.instilllearning.com/blog/how-to-become-full-stack-developer-with-instill-learning"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/blog/blog-post/14346/data/thumb/l-6.jpg" alt="Instill Learning Newsletter - Blockchain, Machine Learning, Mobile & Web" width="100" align="left" hspace="10" vspace="10"></a><p>**[Instill Learning Newsletter - Blockchain, Machine Learning, Mobile & Web](https://www.instilllearning.com/blog/how-to-become-full-stack-developer-with-instill-learning)**</p>
 <br />
-<br />
 ## 🤝 Let's connect and collaborate! Reach me at
 [<img align="left" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/919110245113)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:progaurab@gmail.com)
