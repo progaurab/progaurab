@@ -83,13 +83,20 @@ jobs:
           with open('README.md', 'r') as f:
               readme_content = f.read()
 
-          new_blog_posts_section = "## 📚 Latest blog on https://instilllearning.com\n\n" 
+          # Create new blog section
+          new_blog_posts_section = "## 📚 Latest blog on https://instilllearning.com\n\n"
           for url, title, image_url in blog_posts:
               if image_url:
                   new_blog_posts_section += f'<a href="{url}"><img src="{image_url}" alt="{title}" width="100" align="left" hspace="10" vspace="10"></a>'
               new_blog_posts_section += f"<p>**[{title}]({url})**</p>\n<br />"  # Add two new lines here
 
-          updated_readme_content = re.sub(r'## Recent Blog Posts.*|## 📚 Latest blog on https://instilllearning.com.*', new_blog_posts_section, readme_content, flags=re.DOTALL)
+          # Update only the blog section, keeping everything else
+          updated_readme_content = re.sub(
+              r'(## 📚 Latest blog on https://instilllearning.com\n\n).*?(?=##|$)', 
+              lambda m: m.group(1) + new_blog_posts_section, 
+              readme_content, 
+              flags=re.DOTALL
+          )
 
           with open('README.md', 'w') as f:
               f.write(updated_readme_content)
@@ -101,7 +108,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md blog_post_urls.txt blog_posts.txt update_readme.py
+          git add README.md blog_post_urls.txt blog_posts.txt
           git commit -m 'Update Recent Blog Posts section'
           git pull --rebase origin main
           git push
