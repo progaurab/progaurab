@@ -1,6 +1,6 @@
 ## 👋 Hello World!
 <div align="justify">
-I'm Gaurab Kumar, a passionate full-stack developer and instructor with 9+ years of IT experience. I specialize in a wide range of technologies, from AI & ML to Blockchain, Web & Mobile development, and Cloud & DevOps. Currently, I am a Senior Specialist - Software Engineering at LTIMindtree and an instructor at both Instill Learning and Udemy. I enjoy sharing my knowledge through online courses, blog posts, and free video tutorials.
+I'm Gaurab Kumar, a passionate full-stack developer and instructor with 10+ years of IT experience into Training & Development. I specialize in a wide range of technologies, from AI & ML to Blockchain, Web & Mobile development, and Cloud & DevOps. Currently, I am a Senior Specialist - Software Engineering at LTIMindtree and an instructor at both Instill Learning and Udemy. I enjoy sharing my knowledge through online courses, blog posts, and free video tutorials.
 </div> 
 
 ## 📚 Latest blog on https://instilllearning.com
