@@ -3,8 +3,6 @@
 I'm Gaurab Kumar, a passionate full-stack developer and instructor with 10+ years of IT experience into Training & Development. I specialize in a wide range of technologies, from AI & ML to Blockchain, Web & Mobile development, and Cloud & DevOps. Currently, I am a Senior Specialist - Software Engineering at LTIMindtree and an instructor at both Instill Learning and Udemy. I enjoy sharing my knowledge through online courses, blog posts, and free video tutorials.
 </div> 
 
-<img src="https://github.com/progaurab/progaurab.github.io/blob/master/embed.svg" width="100%" height="600px">
-
 ## 📚 Latest blog on https://instilllearning.com
 
 <a href="https://www.instilllearning.com/blog/master-javascript-gateway-to-learning-react-react-native"><img src="https://s3.amazonaws.com/contents.newzenler.com/1433/library/66cdbe057d15b_1724759557_blog-react-instilllearning.png" alt="Master JavaScript: Gateway to Learning React & React Native" width="100" align="left" hspace="10" vspace="10"></a><p>**[Master JavaScript: Gateway to Learning React & React Native](https://www.instilllearning.com/blog/master-javascript-gateway-to-learning-react-react-native)**</p>
