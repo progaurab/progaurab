@@ -46,6 +46,8 @@ I'm an active contributor to tech communities, and I enjoy sharing knowledge thr
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/learnWithGaurab)
 <br/>
 
+---
+
 ## 📈 Stats
 <p><img align="left" height="240" src="https://github-readme-stats.vercel.app/api?username=progaurab&show_icons=true&hide_rank=true&bg_color=cbb14d,25d385,68e15c,a8eb12" alt="Gaurab Kumar" /></p>
 
