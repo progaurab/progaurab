@@ -1,7 +1,32 @@
 ## 👋 Hello World!
 <div align="justify">
-I'm Gaurab Kumar, a passionate full-stack developer and instructor with 10+ years of IT experience into Training & Development. I specialize in a wide range of technologies, from AI & ML to Blockchain, Web & Mobile development, and Cloud & DevOps. Currently, I am a Senior Specialist - Software Engineering at LTIMindtree and an instructor at both Instill Learning and Udemy. I enjoy sharing my knowledge through online courses, blog posts, and free video tutorials.
-</div> 
+
+I'm **Gaurab Kumar**, a passionate **Full-Stack Developer**, **Tech Instructor**, and **Corporate Trainer** with over **10 years of experience** in software development and training. I specialize in a wide range of technologies — including **AI/ML**, **Blockchain**, **Web & Mobile App Development**, **Cloud Platforms**, and **DevOps**.
+
+I work with individuals, teams, and enterprises to **design scalable solutions** and deliver **hands-on training** on modern tech stacks. My mission is to **bridge the gap between learning and real-world implementation** through interactive courses, workshops, and open knowledge sharing.
+
+I'm an active contributor to tech communities, and I enjoy sharing knowledge through **online courses**, **corporate training programs**, **blog articles**, and **free video tutorials**.
+
+</div>
+
+---
+
+### 🚀 What I Do
+
+- 👨‍💻 Build full-stack and enterprise-grade applications  
+- 🏢 Deliver **corporate training** on technologies like React, Node.js, TypeScript, Python, Docker, Kubernetes, and more  
+- 🎓 Teach online through platforms like **Udemy** and **Instill Learning**  
+- 📚 Publish articles and tutorials to help developers grow  
+- 💬 Mentor professionals transitioning into tech or upskilling in their roles  
+
+---
+
+### 🌱 Currently Exploring
+
+- **Generative AI** and its applications in development  
+- **Cloud-native architectures** and automation pipelines  
+- **Multimodal AI**, **Vertical AI Integration**, and **Shadow AI**  
+- Building community-focused learning platforms
 
 ## 📚 Latest blog on https://instilllearning.com
 
